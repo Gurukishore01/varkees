@@ -1,0 +1,32 @@
+#t1{
+     font-size: xx-large;
+   color: black;
+  line-height: 1cm;
+    font-family:  "Noto Serif Dives Akuru", serif;;
+     text-align: center;
+    text-decoration: underline overline;
+}
+
+p{
+   font-size: x-large;
+   color: red;
+  line-height: 1cm;
+    font-family:  "WDXL Lubrifont TC", sans-serif;
+     text-align: justify;
+}
+.para-1{
+    color: red;
+    font-size: 24px;
+      font-family: "Playpen Sans Thai", cursive;
+      font-style: italic;
+      text-align: justify;
+      text-transform: uppercase;
+   
+}  
+#para-2{
+    color: yellow;
+    font-size: x-larger;
+    font-weight: 700;
+      font-family: "Exile", system-ui;
+       text-align: justify;
+}
